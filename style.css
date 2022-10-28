@@ -1,3 +1,21 @@
 *{
     color: rgb(255, 0, 157);
+    background-color: rgb(172, 240, 158);
+}
+
+h1{
+    color: rgb(255, 0, 255);
+}
+
+h2{
+    color: rgb(247, 0, 255);
+}
+p{
+    color: rgb(3, 3, 3);
+}
+button{
+    color: rgb(255, 0, 0);
+}
+input{
+    color: rgb(116, 117, 117);
 }
