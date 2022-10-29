@@ -47,3 +47,7 @@ h2 p{
 .x p{
     color: rgb(255, 255, 255);
 }
+
+h1:hover{
+    color: white;
+}
