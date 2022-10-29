@@ -23,3 +23,11 @@ button{
 input{
     color: rgb(116, 117, 117);
 }
+
+#element-for-modify{
+    color:brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+    text-align: center;
+    font-size: 50px;
+}
