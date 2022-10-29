@@ -1,15 +1,11 @@
-h1{
-    color:rgb(0, 238, 255)
+.contact-form__input:first-child{
+    color:red;
 }
 
-.red{
-    color:rgb(76, 0, 255)
+.contact-form__input--chill{
+    color: rgb(255, 1, 179);
 }
 
-p{
-    font-size: 80px;
-    color:rgb(250, 1, 1);
-    text-align: center;
-    background-color: rgb(23, 151, 255);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.contact-form__input--siu{
+    color: rgb(132, 1, 255);
 }
