@@ -14,4 +14,5 @@ h2 {
     border-radius: 2em;
     box-shadow: 5px 20px 20px 20px #000;
     text-shadow: 20px 2px 7px #fff;
+    transform: rotate(-45deg);
 }
