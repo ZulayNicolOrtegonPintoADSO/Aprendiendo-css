@@ -1,11 +1,11 @@
-.contact-form__input:first-child{
-    color:red;
+* {
+    padding: 0px;
+    margin: 0px;
 }
 
-.contact-form__input--chill{
-    color: rgb(255, 1, 179);
-}
-
-.contact-form__input--siu{
-    color: rgb(132, 1, 255);
+.contact-form {
+    font-size: 25px;
+    background-color: blue;
+    width: 50vw;
+    height: 100vh;
 }
