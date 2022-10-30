@@ -1,18 +1,16 @@
 * {
-    font-family: 'Ewert', cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 100;
     font-size: 30px;
 }
 
-h2 {
-    background-color: blue;
+div{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
     display: inline-block;
-    padding: 100px;
-    box-sizing: border-box;
-    text-align: center;
-    margin:20px 10px;
-    border-radius: 2em;
-    box-shadow: 5px 20px 20px 20px #000;
-    text-shadow: 20px 2px 7px #fff;
-    transform: rotate(-45deg);
+}
+
+.caja3{
+    border: 5px solid red;
 }
